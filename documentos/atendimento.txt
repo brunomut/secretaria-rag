@@ -1,1 +1,5 @@
 O horário de atendimento da secretaria é das 8h às 18h, de segunda a sexta-feira.
+
+O atendimento pode ser realizado presencialmente ou por e-mail.
+
+O tempo médio de resposta por e-mail é de até 48 horas úteis.
