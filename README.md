@@ -150,3 +150,5 @@ Como evolução da solução, podem ser implementados:
 ## Conclusão
 
 O projeto demonstrou de forma prática como um assistente virtual pode utilizar uma base de conhecimento para responder dúvidas de usuários. Mesmo utilizando uma arquitetura simplificada, foi possível compreender os conceitos fundamentais de RAG, engenharia de prompts e apoio da IA no ciclo de desenvolvimento de software.
+
+Versão 1.0 desenvolvida para atividade acadêmica da pós-graduação.
